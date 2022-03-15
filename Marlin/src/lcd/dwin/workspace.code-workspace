@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "CP-D1 - Marlin2.0.1 - 20201015_V1.1.14",
+			"path": "..\\..\\..\\.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"sstream": "cpp",
+			"random": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"streambuf": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
